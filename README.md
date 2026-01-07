@@ -1,6 +1,6 @@
 # Mandelbrot set to .ppm images
 
-[!Mandelbrot gif](https://github.com/seakerOner/mandelbrot/blob/main/mandelbrot.gif)
+![Mandelbrot gif](https://github.com/seakerOner/mandelbrot/blob/main/mandelbrot.gif)
 
 Using the simplicity of the .ppm format and the Mandelbrot set to create complex shapes
 
