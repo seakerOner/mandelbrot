@@ -1,8 +1,6 @@
 # Mandelbrot set to .ppm images
 
-<video width="1200" height="800" controls>
-  <source src="./mandelbrot.mp4" type="video/mp4">
-</video>
+[!Mandelbrot gif](https://github.com/seakerOner/mandelbrot/blob/main/mandelbrot.gif)
 
 Using the simplicity of the .ppm format and the Mandelbrot set to create complex shapes
 
